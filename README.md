@@ -1,11 +1,11 @@
 Tsing-vim
 =========
-1.Download the .vimrc file 
 
+1.Download the .vimrc file and .vim
 
-2.Copy it to yourown linux or mac work directory,such as : ~/
+2.Copy .vimrc and .vim to yourown linux or mac work directory:  ~/ 
 
-3.install git ,and vundle like this :
+3.All is ok !
 
 
 
