@@ -8,7 +8,11 @@ Tsing-vim
 3.All is ok !
 
  ![image](https://github.com/Tsingke/Tsing-vim/blob/master/vim-pic.jpg)
-
+ 
+ 
+ CONTACT ME
+---
+Any questions or suggestions, contact me at scizqk@gmail.com
 
 
 
